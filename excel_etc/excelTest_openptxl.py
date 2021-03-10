@@ -15,15 +15,15 @@ wb.save("openpyxl1.xlsx")
 wb.close()
 
 wb = load_workbook(filename = 'openpyxl1.xlsx')
-ws = wb.get_active_sheet()
+ws = wb.active
 ws['A1']= 42
-ws.cell(row=1, colum=3).value =333
+ws.cell(row=1, column=3).value = 333
 ws.append(['aaa','bbb','ccc'])#새로운 행에 추가됨
 
 print(ws['A1'].value)
 print(ws['A2'].value) #저장된 값이 없으면 None으로 출력
 
-ws2 = wb['sample']
+ws2 = wb['sample'] #sample 시트 선
 print(ws2['A3'].value, ws2['B3'].value, ws2['C3'].value)
 print(ws2['A4'].value, ws2['B4'].value, ws2['C4'].value)
 print(ws2['A5'].value, ws2['B5'].value, ws2['C5'].value)
