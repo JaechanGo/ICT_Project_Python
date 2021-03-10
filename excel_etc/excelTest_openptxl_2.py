@@ -13,7 +13,6 @@ ws['A1'].font = Font(name='맑은 고딕', size=15, bold=True)
 ws['A1'].alignment = Alignment(horizontal='center', vertical='center')
 
 
-
 ws.append(['이름','국어','영어','수학'])
 ws.append(['홍길동',99,87,98])
 ws.append(['이기자',100,80,33])
