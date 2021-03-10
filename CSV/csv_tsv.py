@@ -1,7 +1,7 @@
 import csv
 
 #.tst쓰기
-f = open('test.csv','w',encoding='utf-8',newline='')
+f = open('test.csv', 'w', encoding='utf-8', newline='')
 wr = csv.writer(f, delimiter='\t')
 wr.writerow([1,"김정수", False])
 wr.writerow([2,"박상미", True])

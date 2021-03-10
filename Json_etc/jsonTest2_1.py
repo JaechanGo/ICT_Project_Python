@@ -1,5 +1,5 @@
 import json
-JSON_FIlE="./test.json"
+JSON_FIlE= "test.json"
 JSON_DATA={}
 
 def read_json(filename) :
@@ -14,13 +14,11 @@ def proc_json():
     global JSON_DATA
     JSON_DATA = read_json(JSON_FIlE)
 
-    repos = JSON_DATA['snapshot']['repos']
-    userid = JSON_DATA['snapshot']['userid']
-    pw = JSON_DATA['snapshot']['passwd']
-
-    print("repos value : " + repos)
-    print("userid value : " + userid)
-    print("passwd value : " + pw)
+    for data in JSON_DATA:
+        print(data)
+        for item in JSON_DATA[data]:
+            print("\t%s%s" % (item, JSON_DATA[data][item]))
+        print()
 
 if __name__=="__main__":
     proc_json()
