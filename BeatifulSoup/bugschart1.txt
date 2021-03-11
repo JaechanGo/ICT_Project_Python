@@ -1,0 +1,100 @@
+20210305,1,브레이브걸스(Brave Girls),롤린 (Rollin')
+20210305,2,양요섭,LOVE DAY (2021) (바른연애 길잡이 X 양요섭, 정은지)
+20210305,3,아이유(IU),Celebrity
+20210305,4,김필(Kim Feel),어떤 날은
+20210305,5,SHINee (샤이니),Don't Call Me
+20210305,6,선미,꼬리 (TAIL)
+20210305,7,MC몽,좋은 이별이 있을 리가 없잖아 (Feat. 조현아 Of 어반자카파)
+20210305,8,폴킴(Paul Kim),사랑하는 당신께
+20210305,9,아이유(IU),내 손을 잡아
+20210305,10,ASH ISLAND,멜로디
+20210305,11,방탄소년단,Dynamite
+20210305,12,케이시,오늘도 난 봄을 기다려
+20210305,13,10CM,이 밤을 빌려 말해요 (바른연애 길잡이 X 10CM)
+20210305,14,John K,parachute
+20210305,15,청하,Bicycle
+20210305,16,BLACKPINK,Lovesick Girls
+20210305,17,릴보이(lIlBOI),FRIENDS (Prod. Slom)
+20210305,18,AJR,Bang!
+20210305,19,Pink Sweat$,At My Worst
+20210305,20,경서,밤하늘의 별을(2020)
+20210305,21,윤하(Younha/ユンナ),서른 밤째 (바른연애 길잡이 X 윤하 (YOUNHA))
+20210305,22,소정(레이디스 코드),함께 했는데 이별은 나 혼자인 거야
+20210305,23,iKON,왜왜왜 (Why Why Why)
+20210305,24,비,WHY DON'T WE (Feat. 청하)
+20210305,25,현아,I'm Not Cool
+20210305,26,아이유(IU),에잇(Prod.&Feat. SUGA of BTS)
+20210305,27,아이유(IU),Blueming
+20210305,28,양지은,붓
+20210305,29,장범준,잠이 오질 않네요
+20210305,30,장범준,흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야
+20210305,31,태연 (TAEYEON),What Do I Call You
+20210305,32,개코,마음이 그래
+20210305,33,ASH ISLAND,그랑프리 (Feat. Beenzino)
+20210305,34,권진아,잘 가
+20210305,35,미란이,VVS (Feat. JUSTHIS) (Prod. GroovyRoom)
+20210305,36,MC몽,돌아갈 순 없을까 (Feat. 김세정)
+20210305,37,산들,취기를 빌려 (취향저격 그녀 X 산들)
+20210305,38,허각,고백 (바른연애 길잡이 X 허각)
+20210305,39,송이한,밝게 빛나는 별이 되어 비춰줄게
+20210305,40,허각,우린 어쩌다 헤어진 걸까
+20210305,41,방탄소년단,Life Goes On
+20210305,42,DAY6 (Even of Day),사랑, 이게 맞나 봐
+20210305,43,오마이걸(OH MY GIRL),Dolphin
+20210305,44,적재,나랑 같이 걸을래 (바른연애 길잡이 X 적재)
+20210305,45,MC몽,물망초 (Feat. 신용재)
+20210305,46,경서 (경서예지),술 한잔 해요
+20210305,47,임영웅,이제 나만 믿어요
+20210305,48,Jawsh 685,Savage Love (Laxed - Siren Beat) (BTS Remix)
+20210305,49,AKMU (악동뮤지션),어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+20210305,50,(여자)아이들,화(火花)
+20210305,51,Bruno Mars(브루노 마스),Leave The Door Open
+20210305,52,IZ*ONE(아이즈원),Panorama
+20210305,53,스탠딩 에그(Standing Egg),오래된 노래
+20210305,54,홍지윤,망부석
+20210305,55,린(LYn),그댈 새겨두어요 (바른연애 길잡이 X 린)
+20210305,56,폴킴(Paul Kim),모든 날, 모든 순간 (Every day, Every Moment)
+20210305,57,aespa,Black Mamba
+20210305,58,Justin Bieber(저스틴 비버),Hold On
+20210305,59,ASH ISLAND,Beautiful (Feat. Skinny Brown)
+20210305,60,Anne-Marie(앤 마리),2002
+20210305,61,BLACKPINK,How You Like That
+20210305,62,MC몽,거북이 (Feat. 효린) (Remix Ver.)
+20210305,63,ASH ISLAND,One More Night (Feat. lIlBOI)
+20210305,64,ASH ISLAND,A STAR IS BORN
+20210305,65,아이유(IU),밤편지
+20210305,66,Ariana Grande(아리아나 그란데),34+35
+20210305,67,창모(CHANGMO),METEOR
+20210305,68,임영웅,HERO
+20210305,69,SHINee (샤이니),Heart Attack
+20210305,70,김태연,아버지의 강
+20210305,71,TWICE (트와이스),I CAN’T STOP ME
+20210305,72,온앤오프(ONF),Beautiful Beautiful
+20210305,73,이하이,For You (Feat. Crush)
+20210305,74,잔나비,주저하는 연인들을 위해
+20210305,75,가호(Gaho),시작
+20210305,76,ASH ISLAND,Checks (Feat. 수퍼비, 박재범 & The Quiett)
+20210305,77,잔나비,가을밤에 든 생각
+20210305,78,아이유(IU),마음을 드려요
+20210305,79,오마이걸(OH MY GIRL),살짝 설렜어 (Nonstop)
+20210305,80,죠지,좋아해.. (바른연애 길잡이 X 죠지)
+20210305,81,아이유(IU),Love poem
+20210305,82,양지은,그 강을 건너지마오
+20210305,83,청하,Bad Boy
+20210305,84,Stellar,Ashes
+20210305,85,백예린 (Yerin Baek),Square (2017)
+20210305,86,박진영,When We Disco (Duet with 선미)
+20210305,87,방탄소년단,작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)
+20210305,88,규현 (KYUHYUN),내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)
+20210305,89,ASH ISLAND,OKAY (Feat. 스윙스)
+20210305,90,SHINee (샤이니),CØDE
+20210305,91,릴보이(lIlBOI),CREDIT (Feat. 염따, 기리보이, Zion.T)
+20210305,92,에픽하이 (EPIK HIGH),내 얘기 같아 (Feat. 헤이즈)
+20210305,93,MC몽,눈이 멀었다
+20210305,94,Maroon 5(마룬 파이브),Beautiful Mistakes
+20210305,95,이수 (엠씨더맥스),Your Lights
+20210305,96,ASH ISLAND,Over
+20210305,97,비,나로 바꾸자 (duet with JYP)
+20210305,98,MC몽,STAR (Feat. 챈슬러, D.Ark)
+20210305,99,별사랑,공
+20210305,100,SHINee (샤이니),빈칸 (Kind)
