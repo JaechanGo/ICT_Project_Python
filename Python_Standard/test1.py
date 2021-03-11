@@ -1,5 +1,5 @@
-# message = "Hello"
-# messages = ["Hello World","Sangji Univercity"]
+# message = "BeatifulSoup"
+# messages = ["BeatifulSoup World","Sangji Univercity"]
 # numbers = (1,2,3)
 # polygon = {"triangle":2, "rectangle":1, "line":0}
 # color={"red","green","blue"}
