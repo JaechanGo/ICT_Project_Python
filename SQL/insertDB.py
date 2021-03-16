@@ -15,10 +15,14 @@ input_time=str(time.asctime(time.localtime(time.time())))
 
 dbcursor.execute("insert into tel (name, tel, addr, input_time, memo) values (?,?,?,?,?)",
                  (name, tel, addr, input_time, memo))
-
+#튜플이 모여있는 list 구조로 execute 을 사용 sql 구문을 data만큼 사용
 
 dbconn.commit()
 #insert문은 DML이므로 commit을 해야함
 
 for row in dbcursor.execute('SELECT * FROM tel'):
     print(row)
+
+
+dbcursor.close()
+dbconn.close()
