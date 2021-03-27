@@ -55,7 +55,7 @@ def main():
 
     #'news', 'blog', 'cafearticle'
     sNode = 'blog'
-    search_text='문재인'
+    search_text='박세욱'
     display_count = 100 #한번에 읽어올 기사
 
     jsonSearch = getNaverSearchResult(sNode, search_text, 1, display_count)
